@@ -1,0 +1,25 @@
+{
+  "name": "bonanzas",
+  "version": "0.0.1",
+  "description": "Sistema Bonanza orientado a los ganaderos de la zona de misiones",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andymi/Bonanzas.git"
+  },
+  "keywords": [
+    "express",
+    "nodejs",
+    "sistema",
+    "bonanzas"
+  ],
+  "author": "Andrea Forneron",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/andymi/Bonanzas/issues"
+  },
+  "homepage": "https://github.com/andymi/Bonanzas#readme"
+}
